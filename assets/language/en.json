@@ -1,0 +1,13 @@
+{
+    "app-bar-title":"Details Bloc",
+    "text-one":"Hallo",
+    "text_tow": "This Text will not be translate",
+    "setting":"Setting",
+    "connect-bloc":"Connect Internet With bloc",
+    "connect-cubit":"Connect Internet With cubit",
+    "connect-t":"connect Internet",
+    "Connect-f":" No Connect Internet",
+    "theme-l":"theme Light",
+    "theme-d":"theme dark"
+    
+}
